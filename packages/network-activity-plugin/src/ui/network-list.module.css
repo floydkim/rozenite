@@ -126,3 +126,7 @@
   color: #666;
   font-size: 14px;
 } 
+
+.networkList {
+  overflow: auto;
+}
